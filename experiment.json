@@ -1,0 +1,12 @@
+{
+    "name": "expfactory_motor_selective_stop_signal",
+    "alt_name": "Motor Selective Stop Signal",
+    "description": "Similar to the Stop Signal task except subjects stop if they were going to make one go response on that trial (e.g., right hand response) but not if they were going to make the other response (e.g., left hand response)",
+    "version": "1.0.1",
+    "repository": {"type": "git", "url": "https://github.com/exprxiv/expfactory_motor_selective_stop_signal.git"},
+    "contributors": ["Ian Eisenberg", "Zeynep Enkavi", "Patrick Bissett", "Vanessa Sochat", "Teon L Brooks", "Russell Poldrack"],
+    "duration": "22",
+    "engine": {"front-end": "jspsych"},
+    "ontology": [ {"convention": "Cognitive Atlas", "term": "trm_4cacf3fbc503b"} ],
+    "reference": "http://psycnet.apa.org/journals/xge/143/1/455/"
+}
